@@ -1,0 +1,1 @@
+libraryDependencies += "se.woodenstake" % "library" % "0.1.0"
